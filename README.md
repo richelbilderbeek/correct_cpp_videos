@@ -1,6 +1,6 @@
-# correct_cpp_videos
+# [Correct C++](https://github.com/richelbilderbeek/correct_cpp) videos
 
-Here you can download the 'Correct C++' videos, or go to the YouTube playlist.
+Here you can download the [Correct C++](https://github.com/richelbilderbeek/correct_cpp) videos, or go to the [Correct C++ YouTube playlist](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGrht1eWbzjbAC1NxG1jN1T).
 
  * [Correct C++ YouTube playlist](https://www.youtube.com/playlist?list=PLu8_ZyzXyRDGrht1eWbzjbAC1NxG1jN1T)
 
